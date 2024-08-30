@@ -10,4 +10,4 @@ This project is created by following along with the tutorials from the Youtube s
 
 The GTZAN dataset can be found here: https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification
 
-Note: Due to an error with file .../genres_original/jazz/jazz00054.wav in the original GTZAN dataset, this project uses a modified copy of the genres folder which excludes this file. This modified folder is named genres and is identical to the GTZAN genres_original folder with the exception of this file.
+Note: Due to an error with file ...Data/genres_original/jazz/jazz.00054.wav in the original GTZAN dataset, during pre-processing of the dataset this file is skipped.
