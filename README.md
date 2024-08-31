@@ -8,7 +8,7 @@ The dataset used to train the model for this project was created from the GTZAN 
 
 #### Acknowledgements
 
-This project is created by following along with the tutorials from the Youtube series "Deep Learning (for Audio) with Python" by creator Velerio Velardo - The Sound of AI: https://www.youtube.com/playlist?list=PL-wATfeyAMNrtbkCNsLcpoAyBBRJZVlnf
+This project was created by following along with the tutorials from the Youtube series "Deep Learning (for Audio) with Python" by creator Velerio Velardo - The Sound of AI: https://www.youtube.com/playlist?list=PL-wATfeyAMNrtbkCNsLcpoAyBBRJZVlnf
 
 The GTZAN dataset can be found here: https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification
 
